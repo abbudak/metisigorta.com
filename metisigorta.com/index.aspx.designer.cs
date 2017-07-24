@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace metisigorta.com {
+namespace WebApplication1 {
     
     
     public partial class index {
