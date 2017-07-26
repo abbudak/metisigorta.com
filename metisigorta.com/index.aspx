@@ -32,7 +32,16 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
+  ga('create', 'UA-103233880-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
 </head>
 <body id="page-top">
     <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
@@ -137,7 +146,7 @@
         <div class="container text-center">
             <div class="call-to-action">
                 <h2>DASK, Zorunlu Trafik Sigortası, Kasko, Sağlık Sigortası, Seyahat Sigortası, Hırsızlık Sigortası, Yangın Sigortası!</h2>
-                <a href="#contact" class="btn btn-default btn-xl sr-button">05323252155</a>
+                <a href="#contact" class="btn btn-default btn-xl sr-button">0532 325 21 55</a>
             </div>
         </div>
     </aside>
@@ -152,7 +161,7 @@
                 </div>
                 <div class="col-lg-4 col-lg-offset-2 text-center">
                     <i class="fa fa-phone fa-3x sr-contact"></i>
-                    <p>Cep: 05323252155 - İş: 03266157953</p>
+                    <p>Cep: 0532 325 21 55 - İş: 0326 615 79 53</p>
                 </div>
                 <div class="col-lg-4 text-center">
                     <i class="fa fa-envelope-o fa-3x sr-contact"></i>
