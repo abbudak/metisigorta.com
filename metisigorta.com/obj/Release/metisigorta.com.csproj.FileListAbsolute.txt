@@ -1,0 +1,5 @@
+C:\Users\z003kjvz\Desktop\sahsi\domains\metisigorta.com\metisigorta.com\metisigorta.com\bin\WebApplication1.dll.config
+C:\Users\z003kjvz\Desktop\sahsi\domains\metisigorta.com\metisigorta.com\metisigorta.com\bin\WebApplication1.dll
+C:\Users\z003kjvz\Desktop\sahsi\domains\metisigorta.com\metisigorta.com\metisigorta.com\bin\WebApplication1.pdb
+C:\Users\z003kjvz\Desktop\sahsi\domains\metisigorta.com\metisigorta.com\metisigorta.com\obj\Release\WebApplication1.dll
+C:\Users\z003kjvz\Desktop\sahsi\domains\metisigorta.com\metisigorta.com\metisigorta.com\obj\Release\WebApplication1.pdb
