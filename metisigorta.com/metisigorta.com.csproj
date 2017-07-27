@@ -61,6 +61,7 @@
     <Content Include="css\creative.css" />
     <Content Include="css\creative.min.css" />
     <Content Include="gulpfile.js" />
+    <Content Include="img\allianz-sigorta-logo.jpg" />
     <Content Include="img\header.jpg" />
     <Content Include="img\portfolio\fullsize\1.jpg" />
     <Content Include="img\portfolio\fullsize\2.jpg" />
@@ -74,6 +75,7 @@
     <Content Include="img\portfolio\thumbnails\4.jpg" />
     <Content Include="img\portfolio\thumbnails\5.jpg" />
     <Content Include="img\portfolio\thumbnails\6.jpg" />
+    <Content Include="img\sbn-sigorta-logo.jpg" />
     <Content Include="index.aspx" />
     <Content Include="js\creative.js" />
     <Content Include="js\creative.min.js" />

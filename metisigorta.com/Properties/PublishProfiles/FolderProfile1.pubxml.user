@@ -6,7 +6,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_NewBackgroundProfile>True</_NewBackgroundProfile>
+    <_NewBackgroundProfile>False</_NewBackgroundProfile>
     <_PublishTargetUrl>C:\Users\z003kjvz\Desktop\sahsi\domains\metisigorta.com\metisigorta.com\metisigorta.com\bin\Release\PublishOutput</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
@@ -14,10 +14,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="bin/WebApplication1.dll">
-      <publishTime>07/26/2017 14:28:38</publishTime>
+      <publishTime>07/27/2017 17:24:50</publishTime>
     </File>
     <File Include="bin/WebApplication1.pdb">
-      <publishTime>07/26/2017 14:28:38</publishTime>
+      <publishTime>07/27/2017 17:24:50</publishTime>
     </File>
     <File Include="css/creative.css">
       <publishTime>07/24/2017 15:25:35</publishTime>
@@ -27,6 +27,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="gulpfile.js">
       <publishTime>03/07/2017 00:53:20</publishTime>
+    </File>
+    <File Include="img/allianz-sigorta-logo.jpg">
+      <publishTime>07/27/2017 14:38:49</publishTime>
     </File>
     <File Include="img/header.jpg">
       <publishTime>03/07/2017 00:53:20</publishTime>
@@ -67,8 +70,11 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="img/portfolio/thumbnails/6.jpg">
       <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
+    <File Include="img/sbn-sigorta-logo.jpg">
+      <publishTime>07/27/2017 17:23:42</publishTime>
+    </File>
     <File Include="index.aspx">
-      <publishTime>07/26/2017 14:25:00</publishTime>
+      <publishTime>07/27/2017 17:21:45</publishTime>
     </File>
     <File Include="js/creative.js">
       <publishTime>03/07/2017 00:53:20</publishTime>
@@ -254,7 +260,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>07/26/2017 14:28:40</publishTime>
+      <publishTime>07/26/2017 15:25:46</publishTime>
     </File>
   </ItemGroup>
 </Project>

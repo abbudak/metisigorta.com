@@ -32,16 +32,18 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    <script>
+        (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
-  ga('create', 'UA-103233880-3', 'auto');
-  ga('send', 'pageview');
+        ga('create', 'UA-103233880-3', 'auto');
+        ga('send', 'pageview');
 
-</script>
+    </script>
 </head>
 <body id="page-top">
     <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
@@ -91,7 +93,12 @@
                     <h2 class="section-heading">Sigortaya mı ihtiyacınız var, size bir telefon kadar yakınız!</h2>
                     <hr class="light">
                     <p class="text-faded">Güçlü ve dinamik ekibimizle sadece poliçenizi keserken değil, hasar anında da tüm gücümüzle yanınızdayız. Unutmayın sağlam acente hasar anında anlaşılır.</p>
-                    <a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Sigorta Ürünlerimiz</a>
+                    <a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Sigorta Ürünlerimiz</a><br />
+                    <br />
+                    <br />
+                    <div class="row">
+                        <img src="img/allianz-sigorta-logo.jpg" /><img src="img/sbn-sigorta-logo.jpg" />
+                    </div>
                 </div>
             </div>
         </div>
