@@ -42,6 +42,24 @@
         ga('create', 'UA-103233880-3', 'auto');
         ga('send', 'pageview');
     </script>
+    <style type="text/css">
+        .auto-style1 {
+            display: block;
+            padding: 6px 12px;
+            font-size: 14px;
+            line-height: 1.42857143;
+            color: #555;
+            background-color: #fff;
+            background-image: none;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+            box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+            -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+            -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+            transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+        }
+    </style>
 </head>
 <body id="page-top">
 
@@ -246,7 +264,7 @@
                             <div class="form-group">
                                 <label class="control-label col-sm-2" for="email">Email Adresiniz:</label>
                                 <div class="col-sm-10">
-                                    <asp:TextBox ID="email" runat="server" CssClass="form-control" ></asp:TextBox>
+                                    <asp:TextBox ID="email" runat="server" CssClass="form-control"></asp:TextBox>
 
                                     <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server"
                                         ControlToValidate="email" ErrorMessage="Lütfen email adresinizi yazınız."
@@ -262,7 +280,7 @@
                             <div class="form-group">
                                 <label class="control-label col-sm-2">Cep Telefonunuz:</label>
                                 <div class="col-sm-10">
-                                    <asp:TextBox ID="phone" runat="server" CssClass="form-control" ></asp:TextBox>
+                                    <asp:TextBox ID="phone" runat="server" CssClass="form-control"></asp:TextBox>
 
                                     <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server"
                                         ControlToValidate="phone" ErrorMessage="Lütfen cep telefonunuzu yazınız."
@@ -273,6 +291,13 @@
                                         SetFocusOnError="True"
                                         ValidationExpression="(([\+]90?)|([0]?))([ ]?)((\([0-9]{3}\))|([0-9]{3}))([ ]?)([0-9]{3})(\s*[\-]?)([0-9]{2})(\s*[\-]?)([0-9]{2})">
                                     </asp:RegularExpressionValidator>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label class="control-label col-sm-2">Notlar:</label>
+                                <div class="col-sm-10">
+                                    <asp:TextBox ID="yorum" runat="server" CssClass="form-control" TextMode="MultiLine"></asp:TextBox>
                                 </div>
                             </div>
 
