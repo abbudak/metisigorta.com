@@ -18,17 +18,22 @@ namespace WebApplication1
 
         protected void teklifal_Click(object sender, EventArgs e)
         {
-            if (checkbox.Checked) {
+            if (checkbox.Checked)
+            {
                 string constr = ConfigurationManager.ConnectionStrings["constr"].ConnectionString;
                 MySqlConnection conn = new MySqlConnection(constr);
                 conn.Open();
                 MySqlCommand comm = conn.CreateCommand();
-                comm.CommandText = "INSERT INTO musteri_master(musteri_ad_soyad,musteri_email,musteri_tel,musteri_urun_id,kayit_tarihi) VALUES(@musteri_ad_soyad, @musteri_email, @musteri_tel, @musteri_urun_id, @kayit_tarihi )";
+                comm.CommandText = "INSERT INTO musteri_master(musteri_ad_soyad, musteri_email, musteri_tel, musteri_urun_id, kayit_tarihi, musteri_sonuc, iletisim_izni_tel, iletisim_izni_mail) VALUES(@musteri_ad_soyad, @musteri_email, @musteri_tel, @musteri_urun_id, @kayit_tarihi, @musteri_sonuc, @iletisim_izni_tel, @iletisim_izni_mail )";
                 comm.Parameters.AddWithValue("@musteri_ad_soyad", name.Text);
                 comm.Parameters.AddWithValue("@musteri_email", email.Text);
                 comm.Parameters.AddWithValue("@musteri_tel", phone.Text);
                 comm.Parameters.AddWithValue("@musteri_urun_id", selectbasic.SelectedValue);
                 comm.Parameters.AddWithValue("@kayit_tarihi", DateTime.Now);
+                comm.Parameters.AddWithValue("@musteri_sonuc", "Başvuru yaptı");
+                comm.Parameters.AddWithValue("@iletisim_izni_tel", "E");
+                comm.Parameters.AddWithValue("@iletisim_izni_mail", "E");
+
                 comm.ExecuteNonQuery();
                 conn.Close();
                 Response.Write("<script>alert('Verdiğiniz bilgiler için çok teşekkür ederiz. En kısa sürede sizinle iletişime geçeceğiz.');</script>");

@@ -11,16 +11,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   </PropertyGroup>
   <ItemGroup>
     <File Include=".gitignore">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="bin/MySql.Data.dll">
       <publishTime>06/17/2016 18:28:04</publishTime>
     </File>
     <File Include="bin/WebApplication1.dll">
-      <publishTime>01/08/2017 12:42:29</publishTime>
+      <publishTime>08/01/2017 14:00:39</publishTime>
     </File>
     <File Include="bin/WebApplication1.pdb">
-      <publishTime>01/08/2017 12:42:29</publishTime>
+      <publishTime>08/01/2017 14:00:39</publishTime>
     </File>
     <File Include="css/creative.css">
       <publishTime>07/24/2017 15:25:35</publishTime>
@@ -29,244 +29,244 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/24/2017 15:27:09</publishTime>
     </File>
     <File Include="gulpfile.js">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="img/allianz-sigorta-logo.jpg">
       <publishTime>07/27/2017 14:38:49</publishTime>
     </File>
     <File Include="img/header.jpg">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="img/portfolio/fullsize/1.jpg">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="img/portfolio/fullsize/2.jpg">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="img/portfolio/fullsize/3.jpg">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="img/portfolio/fullsize/4.jpg">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="img/portfolio/fullsize/5.jpg">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="img/portfolio/fullsize/6.jpg">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="img/portfolio/thumbnails/1.jpg">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="img/portfolio/thumbnails/2.jpg">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="img/portfolio/thumbnails/3.jpg">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="img/portfolio/thumbnails/4.jpg">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="img/portfolio/thumbnails/5.jpg">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="img/portfolio/thumbnails/6.jpg">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="img/sbn-sigorta-logo.jpg">
       <publishTime>07/27/2017 17:23:42</publishTime>
     </File>
     <File Include="index.aspx">
-      <publishTime>01/08/2017 12:22:57</publishTime>
+      <publishTime>08/01/2017 12:22:57</publishTime>
     </File>
     <File Include="js/creative.js">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="js/creative.min.js">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="less/creative.less">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="less/mixins.less">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="less/variables.less">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="LICENSE">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="package.json">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="packages.config">
       <publishTime>07/24/2017 16:56:45</publishTime>
     </File>
     <File Include="README.md">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="Unsubscribe.aspx">
       <publishTime>07/30/2017 19:47:56</publishTime>
     </File>
     <File Include="vendor/bootstrap/css/bootstrap.css">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/bootstrap/css/bootstrap.min.css">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/bootstrap/fonts/glyphicons-halflings-regular.eot">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/bootstrap/fonts/glyphicons-halflings-regular.svg">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/bootstrap/fonts/glyphicons-halflings-regular.woff">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/bootstrap/js/bootstrap.js">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/bootstrap/js/bootstrap.min.js">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/css/font-awesome.css">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/css/font-awesome.min.css">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/fonts/fontawesome-webfont.eot">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/fonts/fontawesome-webfont.svg">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/fonts/fontawesome-webfont.ttf">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/fonts/fontawesome-webfont.woff">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/fonts/fontawesome-webfont.woff2">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/fonts/FontAwesome.otf">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/less/animated.less">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/less/bordered-pulled.less">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/less/core.less">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/less/fixed-width.less">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/less/font-awesome.less">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/less/icons.less">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/less/larger.less">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/less/list.less">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/less/mixins.less">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/less/path.less">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/less/rotated-flipped.less">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/less/screen-reader.less">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/less/stacked.less">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/less/variables.less">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/scss/font-awesome.scss">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/scss/_animated.scss">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/scss/_bordered-pulled.scss">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/scss/_core.scss">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/scss/_fixed-width.scss">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/scss/_icons.scss">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/scss/_larger.scss">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/scss/_list.scss">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/scss/_mixins.scss">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/scss/_path.scss">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/scss/_rotated-flipped.scss">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/scss/_screen-reader.scss">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/scss/_stacked.scss">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/font-awesome/scss/_variables.scss">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/jquery/jquery.js">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/jquery/jquery.min.js">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/magnific-popup/jquery.magnific-popup.js">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/magnific-popup/jquery.magnific-popup.min.js">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/magnific-popup/magnific-popup.css">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/scrollreveal/scrollreveal.js">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="vendor/scrollreveal/scrollreveal.min.js">
-      <publishTime>07/03/2017 00:53:20</publishTime>
+      <publishTime>03/07/2017 00:53:20</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>08/01/2017 13:53:43</publishTime>
+      <publishTime>01/08/2017 13:53:43</publishTime>
     </File>
   </ItemGroup>
 </Project>
