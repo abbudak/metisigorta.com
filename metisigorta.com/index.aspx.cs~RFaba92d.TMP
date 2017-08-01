@@ -27,15 +27,14 @@ namespace WebApplication1
                 comm.Parameters.AddWithValue("@musteri_ad_soyad", name.Text);
                 comm.Parameters.AddWithValue("@musteri_email", email.Text);
                 comm.Parameters.AddWithValue("@musteri_tel", phone.Text);
-                comm.Parameters.AddWithValue("@musteri_urun_id", selectbasic.SelectedValue);
+                comm.Parameters.AddWithValue("@musteri_urun_id", 1);
                 comm.Parameters.AddWithValue("@kayit_tarihi", DateTime.Now);
                 comm.ExecuteNonQuery();
                 conn.Close();
-                Response.Write("<script>alert('Verdiğiniz bilgiler için çok teşekkür ederiz. En kısa sürede sizinle iletişime geçeceğiz.');</script>");
             }
             else
             {
-                Response.Write("<script>alert('Lütfen Kabul Ediniz.');</script>");
+                null;
             }
 
         }
